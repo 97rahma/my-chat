@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingNormal">20dp</dimen>
+    <dimen name="LinearPadding">24dp</dimen>
+    <dimen name="TextSize">18sp</dimen>
+</resources>
